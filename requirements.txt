@@ -1,0 +1,8 @@
+yfinance
+forex-python
+tqdm
+fredapi
+python-dotenv
+tensorflow
+scikit-learn
+matplotlib
